@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently studying on **[Open University](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently studying on **[Open University](https://ou.edu.vn/)**
 
 - 🌱 I’m currently learning **Full-stack developer.**
 
