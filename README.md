@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Huynh Linh Khoi</h1>
-<h3 align="center">I'm a fresher Flutter Developer from VietNam.</h3>
+<h3 align="center">I'm a fresher Backend Developer from VietNam.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently studying on **[Open University](https://ou.edu.vn/)**
 
-- 🌱 I’m currently learning **Flutter developer.**
+- 🌱 I’m currently learning **Java developer.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
